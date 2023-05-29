@@ -1,1 +1,4 @@
-console.log("Git is Awesome!")
+
+
+const userInput = prompt("Please enter your name")
+console.log(userInput)
